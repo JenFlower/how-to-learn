@@ -173,6 +173,7 @@
 
 .table__cell_theme_light {
   margin-top: 60px;
+  width: 250px;
 }
 
 .table__heading {
@@ -205,11 +206,6 @@ tr:nth-child(2) .table__cell:first-child > :nth-child(3) {
   bottom: 0;
   margin-bottom: 0;
   margin-top: 20px;
-}
-
-
-.table__cell_theme_light {
-  width: 250px;
 }
 
 
