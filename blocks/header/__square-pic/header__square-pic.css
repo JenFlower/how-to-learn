@@ -1,8 +1,4 @@
-/* файл с кейфреймом */
-@import url(../../rotation/rotation.css);
-
 .header__square-pic {
-  animation: rotation 20s linear infinite;
   overflow: hidden;
   position: absolute;
   background-color: #2f80ed;

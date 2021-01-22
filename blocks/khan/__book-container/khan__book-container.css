@@ -1,0 +1,6 @@
+.khan__book-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start; /* чтобы не растягивать ссылку по высоте */
+  margin: 0;
+}
