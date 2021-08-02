@@ -9,3 +9,6 @@
 5. animation
 
 Файловая структура создана по методологии БЭМ
+
+## gh-pages
+https://jenflower.github.io/how-to-learn/
